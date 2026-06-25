@@ -7,7 +7,7 @@ Klickbarer Prototyp einer Schulungsplattform für Menschen ab 65 Jahren.
 Die Website ist statisch und kann direkt im Browser geöffnet werden:
 
 ```text
-senioren-lernplattform/index.html
+index.html
 ```
 
 Optional kann ein lokaler Webserver im Ordner gestartet werden.
