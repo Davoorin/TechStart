@@ -1,10 +1,10 @@
 # Einfach Digital Lernen
 
-Klickbarer Prototyp einer Schulungsplattform fuer Menschen ab 65 Jahren.
+Klickbarer Prototyp einer Schulungsplattform für Menschen ab 65 Jahren.
 
 ## Starten
 
-Die Website ist statisch und kann direkt im Browser geoeffnet werden:
+Die Website ist statisch und kann direkt im Browser geöffnet werden:
 
 ```text
 senioren-lernplattform/index.html
@@ -27,4 +27,4 @@ Optional kann ein lokaler Webserver im Ordner gestartet werden.
 - Events
 - Nutzerprofil
 
-Alle Inhalte nutzen Dummy-Daten. Es werden keine echten Bank-, Ticket- oder Nutzerdaten uebertragen.
+Alle Inhalte nutzen Dummy-Daten. Es werden keine echten Bank-, Ticket- oder Nutzerdaten übertragen.
